@@ -1,0 +1,4 @@
+streamlit #visualization
+requests #making http requests
+web3 # to browse ethereum blockchain
+pandas # data frames
